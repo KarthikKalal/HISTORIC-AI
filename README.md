@@ -39,7 +39,11 @@ Historic AI is an intelligent history assistant powered by **Google Gemini AI** 
 
 # 📷 Preview
 
-> Add screenshots here
+> 
+
+https://github.com/user-attachments/assets/bf4d06e5-26d2-4c5e-9f8d-5f4a91b7ad6d
+
+
 
 ```
 screenshots/home.png
